@@ -129,7 +129,7 @@ After it completes, if successful, there should be a `dist` folder created with 
 
 * **Henson Liga** - *Lead Developer and Creator* - [neurokitti](https://github.com/neurokitti)
 
-* **ash.meow** - *Backend Developer (JSON Support)* - [No GitHub Profile]
+* **ash.meow** - *Backend Developer (JSON Support)* - [ash-meow](https://github.com/ash-meow)
 
 * **Valkryx** - *Frontend Developer* - [valk_ryx](https://github.com/valk-ryx)
 
