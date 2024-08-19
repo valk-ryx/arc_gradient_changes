@@ -1,0 +1,9 @@
+.DS_STORE
+.venv
+__pycache__
+*.exe
+/Arc_API
+/build
+/dist
+*.app
+*.spec
